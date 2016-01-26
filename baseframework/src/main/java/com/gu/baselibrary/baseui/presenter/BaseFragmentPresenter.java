@@ -34,7 +34,7 @@ import com.gu.baselibrary.baseui.view.IDelegate;
  * @param <T> View delegate class type
  * @author kymjs (http://www.kymjs.com/) on 10/23/15.
  */
-public abstract class FragmentPresenter<T extends IDelegate> extends Fragment {
+public abstract class BaseFragmentPresenter<T extends IDelegate> extends Fragment {
     public T viewDelegate;
 
     @Override
