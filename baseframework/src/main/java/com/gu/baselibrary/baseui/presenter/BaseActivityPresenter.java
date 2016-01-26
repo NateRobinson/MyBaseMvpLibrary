@@ -47,8 +47,10 @@ public abstract class BaseActivityPresenter<T extends IDelegate> extends AppComp
      * Log tag
      */
     protected static String TAG_LOG = null;
+    /**
+     * 视图代理对象
+     */
     protected T viewDelegate;
-
     /**
      * 网络状态监听
      */
