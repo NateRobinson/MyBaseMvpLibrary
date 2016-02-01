@@ -5,6 +5,7 @@
 **这个框架核心代码结构如下图：**
 
 
+![框架结构图](https://github.com/NateRobinson/MyBaseMvpLibrary/blob/master/imgs/1.png?raw=true)
 
 
 - ***baseadapter***：里面是列表适配器的封装代码，通过这个可以使适配器代码看起来更简洁，此处代码是参考网上大神的总结而来；
