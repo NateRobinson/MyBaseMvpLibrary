@@ -94,7 +94,6 @@ public abstract class AppDelegate implements IDelegate {
         return (T) rootView.getContext();
     }
 
-
     /**
      * 展示一个toast提示
      *
@@ -125,6 +124,15 @@ public abstract class AppDelegate implements IDelegate {
      */
     @Override
     public abstract void initWidget();
+
+    /**
+     * 返回当前的View
+     */
+
+    @Override
+    public View getRootView() {
+        return rootView;
+    }
 
     /**
      * @return menu菜单id
