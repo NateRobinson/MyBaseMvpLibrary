@@ -1,13 +1,10 @@
 package com.gu.baselibrary.view.loadview;
 
-import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.drawable.GradientDrawable;
-import android.view.Display;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.view.WindowManager;
 
 import com.gu.baselibrary.R;
 

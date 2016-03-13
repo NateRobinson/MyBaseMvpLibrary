@@ -15,7 +15,7 @@ import com.gu.baselibrary.utils.DrawableUtils;
 import com.gu.baselibrary.view.MTextView;
 
 /**
- * @author 追梦工厂
+ * @author NateRobinson
  * @ClassName: BaseViewHolder
  * @Description: ViewHolder封装类
  * @date 2015年4月26日 上午10:03:34

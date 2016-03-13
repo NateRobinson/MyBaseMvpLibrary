@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * @param <T>
- * @author 追梦工厂
+ * @author NateRobinson
  * @ClassName: BaseAdapter
  * @Description: 封装的listviewadapter
  * @date 2015年4月26日 上午10:06:33
